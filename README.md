@@ -3,9 +3,9 @@
 Uninstall all 7-Zip versions from the computer with Powershell. Open zip files with the existing Compress Folder.
 
 *Çalıştırma Komut Satırı:*
->Powershell.exe -ExecutionPolicy Bypass -File ".\Login_View.ps1"
+>Powershell.exe -ExecutionPolicy Bypass -File ".\7-Zip-Uninstaller.ps1"
 
->Powershell.exe -ExecutionPolicy Bypass -File ".\Login_View.ps1" -Log "Your Log Path"
+>Powershell.exe -ExecutionPolicy Bypass -File ".\7-Zip-Uninstaller.ps1" -Log "Your Log Path"
 
 **-Log:**“Your Log Path”
 
